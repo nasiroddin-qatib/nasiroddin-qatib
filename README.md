@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Nasiroddin 👋
 
-<!--
-**nasiroddin-qatib/nasiroddin-qatib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring AWS & DevOps Engineer passionate about cloud infrastructure, automation, and CI/CD pipelines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☁️ Skills
+
+AWS • Linux • Git • GitHub • Jenkins • Maven • SonarQube • CI/CD
+
+---
+
+## 🚀 DevOps Projects
+
+### 🔹 Git Workflow Simulation
+Simulated how developers collaborate using Git branching strategies.
+
+Repository  
+https://github.com/nasiroddin-qatib/git-workflow-simulation
+
+---
+
+### 🔹 Maven Spring Boot Employee API
+Built and packaged a Spring Boot application using Maven.
+
+Repository  
+https://github.com/nasiroddin-qatib/maven-springboot-employee-api
+
+---
+
+### 🔹 Jenkins CI Pipeline
+Created a Jenkins pipeline to automate build and testing.
+
+Repository  
+https://github.com/nasiroddin-qatib/jenkins-ci
+
+---
+
+### 🔹 GitHub Webhook Automation
+Configured GitHub webhook to automatically trigger Jenkins pipelines.
+
+Repository  
+https://github.com/nasiroddin-qatib/webhook-project
+
+---
+
+### 🔹 Jenkins + SonarQube CI Pipeline
+Integrated SonarQube with Jenkins for automated code quality analysis.
+
+Repository  
+https://github.com/nasiroddin-qatib/jenkins-sonarqube-ci
+
+---
+
+## ⚙️ DevOps Pipeline Flow
+
+Developer → GitHub → Webhook → Jenkins → Maven Build → SonarQube Analysis → Artifact Packaging
+
+---
+
+## 🎯 Current Focus
+
+Learning advanced DevOps practices and building real-world cloud and CI/CD automation projects.
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn  
+https://linkedin.com/in/nasiroddin-khatib-269841278
+
+Email  
+nasirkhatib01@gmail.com
