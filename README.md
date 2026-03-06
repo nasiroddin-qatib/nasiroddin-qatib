@@ -67,7 +67,7 @@ Learning advanced DevOps practices and building real-world cloud and CI/CD autom
 ## 📫 Connect With Me
 
 LinkedIn  
-https://linkedin.com/in/nasiroddin-khatib-269841278
+https://linkedin.com/in/nasiroddin-qatib-269841278
 
 Email  
 nasirkhatib01@gmail.com
